@@ -1,0 +1,12 @@
+.department-btn{
+    color: black;
+    border: none;
+    border-radius: 15px;
+    padding: 8px 15px;
+    background-color: cadetblue;
+}
+.department-btn:hover{
+    color: black;
+    background-color:chocolate;
+    font-weight: 900;
+}

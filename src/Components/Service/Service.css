@@ -1,0 +1,17 @@
+.service-card{
+    background-color:rosybrown;
+}
+.service-card:hover{
+    background-color: darkslategray;
+}
+.service-btn{
+    color:lemonchiffon;
+    border-radius: 15px;
+    padding: 5px 15px;
+    background-color: black;
+    border: none;
+}
+.service-btn:hover{
+    background-color:lemonchiffon;
+    color: black;
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "key": 1,
+        "name": "SPIRAL CT SCANNER",
+        "description": "A spiral computed tomography (CT) scan takes images using radiation. ... Spiral CT uses a faster machine that spins continuously around the body. This allows it to more quickly detect images and spot problems. It can also detect small nodules (early-stage lung disease) that cannot be clearly seen on chest x-rays.",
+        "img": "https://i.ibb.co/7YMzYBn/spiral-ct-scanner-1578728342.jpg"
+    },
+    {
+        "key": 2,
+        "name": "HEMODIALYSIS",
+        "description": "Hemodialysis, also spelled haemodialysis, or simply dialysis, is a process of purifying the blood of a person whose kidneys are not working normally.",
+        "img": "https://i.ibb.co/VWbbxRW/Hemodialysis.jpg"
+    },
+    {
+        "key": 3,
+        "name": "DIGITAL X-RAY",
+        "description": "Digital radiography is a form of radiography that uses x-ray–sensitive plates to directly capture data during the patient examination, immediately transferring it to a computer system without the use of an intermediate cassette.",
+        "img": "https://i.ibb.co/NLvBvkH/digital-x-ray.jpg"
+    },
+    {
+        "key": 4,
+        "name": "MAMMOGRAM",
+        "description": "Mammography is the process of using low-energy X-rays to examine the human breast for diagnosis and screening. The goal of mammography is the early detection of breast cancer, typically through detection of characteristic masses or microcalcifications.",
+        "img": "https://i.ibb.co/8dCw7L1/mammogram.jpg"
+    },
+    {
+        "key": 5,
+        "name": "OPG",
+        "description": "An OPG is a panoramic X-ray of the upper and lower jaws, including the teeth. The OPG unit is specifically designed to rotate around the patient's head during the scan. An OPG will take approximately 20 seconds. An OPG can be used to look for. Fractures.",
+        "img": "https://i.ibb.co/sQVJ5Q0/opg.jpg"
+    },
+    {
+        "key": 6,
+        "name": "ECHO CARDIOGRAM",
+        "description": "An echocardiography, echocardiogram, cardiac echo or simply an echo, is an ultrasound of the heart. Echocardiography uses standard two-dimensional, three-dimensional, and Doppler ultrasound to create images of the heart.",
+        "img": "https://i.ibb.co/0rK7srX/echo-cardiogram.jpg"
+    },
+    {
+        "key": 7,
+        "name": "ECG",
+        "description": "Electrocardiography is the process of producing an electrocardiogram, a recording – a graph of voltage versus time – of the electrical activity of the heart using electrodes placed on the skin.",
+        "img": "https://i.ibb.co/JCm6bW0/ECG.jpg"
+    },
+    {
+        "key": 8,
+        "name": "ULTRASONOGRAPHY",
+        "description": "Medical ultrasound is a diagnostic imaging technique based on the application of ultrasound. It is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs. Its aim is often to find a source of a disease or to exclude pathology.",
+        "img": "https://i.ibb.co/mJVqTq2/Ultrasonogram.jpg"
+    },
+    {
+        "key": 9,
+        "name": "BIOCHEMICAL ANALYSIS",
+        "description": "Biochemical analysis techniques. Biochemical analysis techniques refer to a set of methods, assays, and procedures that enable scientists to analyze the substances found in living organisms and the chemical reactions underlying life processes.",
+        "img": "https://i.ibb.co/3yFM94C/biomicrology.jpg"
+    }
+]

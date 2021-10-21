@@ -1,0 +1,12 @@
+.doctor-section h1{
+    color:darkblue;
+    font-weight: 900;
+    font-style:oblique;
+}
+.doctor-section h5{
+    color: black;
+}
+.doctor-section p{
+    font-weight: 900;
+    font-style: italic;
+}

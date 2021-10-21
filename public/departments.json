@@ -1,0 +1,56 @@
+[
+    {
+        "key": "001",
+        "name": "CARDIOLOGY",
+        "description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology. ",
+        "img": "https://i.ibb.co/3BWrNg4/cardiology.png"
+    },
+    {
+        "key": "002",
+        "name": "CHEST MEDICINE",
+        "description": "Pulmonology is a medical specialty that deals with diseases involving the respiratory tract. The term is derived from the Latin word pulmō, pulmōnis and the Greek suffix -λογία, -logia. Pulmonology is synonymous with pneumology, respirology and respiratory medicine.",
+        "img": "https://i.ibb.co/f8Lfndr/chest-medicine.jpg"
+    },
+    {
+        "key": "003",
+        "name": "DERMATOLOGY",
+        "description": "Dermatology is the branch of medicine dealing with the skin. It is a specialty with both medical and surgical aspects. A dermatologist is specialist doctor that manages diseases, in the widest sense, and some cosmetic problems of the skin.",
+        "img": "https://i.ibb.co/xJVtYdR/dermatology.jpg"
+    },
+    {
+        "key": "004",
+        "name": "NEUROSURGERY",
+        "description": "Neurosurgery, or neurological surgery, is the medical specialty concerned with the prevention, diagnosis, surgical treatment, and rehabilitation of disorders which affect any portion of the nervous system including the brain, spinal cord, peripheral nerves, and cerebrovascular system.",
+        "img": "https://i.ibb.co/3MX6qCB/neurosurgery.jpg"
+    },
+    {
+        "key": "005",
+        "name": "ENDOCRINOLOGY",
+        "description": "Endocrinology is a branch of biology and medicine dealing with the endocrine system, its diseases, and its specific secretions known as hormones",
+        "img": "https://i.ibb.co/YkKskNH/endocrinology.jpg"
+    },
+    {
+        "key": "006",
+        "name": "GASTRO- ENTEROLOGY",
+        "description": "Gastroenterology is the branch of medicine focused on the digestive system and its disorders. Diseases affecting the gastrointestinal tract, which include the organs from mouth into anus, along the alimentary canal, are the focus of this speciality. Physicians practicing in this field are called gastroenterologists",
+        "img": "https://i.ibb.co/ngFFgN1/gastro-enterology.jpg"
+    },
+    {
+        "key": "007",
+        "name": "ECG",
+        "description": "Electrocardiography is the process of producing an electrocardiogram, a recording – a graph of voltage versus time – of the electrical activity of the heart using electrodes placed on the skin.",
+        "img": "https://i.ibb.co/JCm6bW0/ECG.jpg"
+    },
+    {
+        "key": "008",
+        "name": "GENERAL PHYSICIAN",
+        "description": "In the medical profession, a general practitioner is a medical doctor who treats acute and chronic illnesses and provides preventive care and health education to patients.",
+        "img": "https://i.ibb.co/VqDFNsm/general-physician.jpg"
+    },
+    {
+        "key": "009",
+        "name": "GYNAECOLOGY",
+        "description": "Gynaecology or gynecology is the medical practice dealing with the health of the female reproductive system and the breasts. Outside medicine, the term means. Its counterpart is andrology, which deals with medical issues specific to the male reproductive system",
+        "img": "https://i.ibb.co/T1QGJxn/gynaecology.jpg"
+    }
+]
